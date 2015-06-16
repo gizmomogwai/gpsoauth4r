@@ -1,5 +1,6 @@
 * Gpsoauth4r
 
+[[https://travis-ci.org/gizmomogwai/gpsoauth4r.svg?branch=master]]
 Gem to access google play services like from a mobile device.
 Heavily inspired by:
 
